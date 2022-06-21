@@ -4,7 +4,7 @@ title: Welcome to Earth!
 permalink: /about
 ---
 
-I am a graduate student at [Carnegie Mellon University](https://www.cmu.edu/). I received my Bachelor's degree in Economics from Sun Yat-sen University, and spent 1 year studied in Kuala Lumpur at University of Malaya.
+I am currently a graduate student at [Carnegie Mellon University](https://www.cmu.edu/). I received my Bachelor's degree from Sun Yat-sen University, and spent 1 year studied in Kuala Lumpur at University of Malaya.
 
 I was born and raised in Shanghai. I was 4 yrs old when I started on the violin, and became a viola player in Shanghai City Symphony Orchestra and Shanghai Youth Philharmonic Orchestra since 10.
 
