@@ -13,4 +13,5 @@ An useful takeaway during this 20 years is, when you are feeling stuff, and you 
 
 My greatest musical hero, though, was my mom, who sacrificed so much to my musical education. She’s always been the biggest believer in me, and I wouldn’t be where I am today without her.
 
-## Thankful for every part of this journey. 20 and fabulous!
+## Thankful for every part of this journey.
+## 20 and fabulous!
