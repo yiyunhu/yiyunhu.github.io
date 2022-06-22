@@ -21,13 +21,16 @@ An useful takeaway during these 20 years is, when you are feeling stuff, and you
 
 20 years till now, music builds up my tenacity, which benefits many aspects of my life. I feel more courageous when I encounter challenges and I walk out the area where the only obstacles and barriers are set by the fear of difficulties and changes and second guess of oneself. I understand what it really means to try the best and let it be, which unburdens my unnecessary concerns and encourages me to spare no efforts.
 
-So, my greatest musical hero, though, was my mom, who sacrificed so much to my musical education. She’s always been the biggest believer in me, and I wouldn’t be where I am today without her. Love you mom!
+I love Bach, Tchaikovsky. I admire Mahler. But my greatest musical hero, though, was my mom, who sacrificed so much to my musical education. She’s always been the biggest believer in me, and I wouldn’t be where I am today without her. Love you mom!
 
 <div style="text-align: center;">
 <img src="../assets/img/orchestra-1.jpg"
     width="600"
     height="400">
 </div>
+
+I met many wonderful friends and mentors from my orchestra, we rehearse all the time, have performances all around the world, and from them I can always find new perspectives of life. Tenacity and passion are assets that music brings to me. These precious qualities are the sources of my strength and joy. I will always remember what music teaches me and continue to be a person who strives for a better self and creates value beyond.
+
 
 ### Thankful for every part of this journey.
 ### 20 and fabulous!
