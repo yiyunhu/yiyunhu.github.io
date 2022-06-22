@@ -18,7 +18,6 @@ An useful takeaway during these 20 years is, when you are feeling stuff, and you
     width="300"
     height="400">
 </div>
-<br>
 
 20 years till now, music builds up my tenacity, which benefits many aspects of my life. I feel more courageous when I encounter challenges and I walk out the area where the only obstacles and barriers are set by the fear of difficulties and changes and second guess of oneself. I understand what it really means to try the best and let it be, which unburdens my unnecessary concerns and encourages me to spare no efforts.
 
@@ -29,7 +28,6 @@ So, my greatest musical hero, though, was my mom, who sacrificed so much to my m
     width="600"
     height="400">
 </div>
-<br>
 
 ### Thankful for every part of this journey.
 ### 20 and fabulous!

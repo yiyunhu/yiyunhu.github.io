@@ -8,7 +8,7 @@ google-ID: 'G-VFSB6WDCJN'
 
 menu:
 - {name: 'About',   url: 'about.html'}
-- {name: 'Heap', url: 'heap.html'}
+- {name: 'Heap', url: 'writings.html'}
 - {name: 'Contact', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
@@ -16,7 +16,6 @@ social:
 - {icon: 'github',     link: 'http://github.com/yiyunhu'}
 - {icon: 'twitter',    link: 'https://twitter.com/yiyunhyy'}
 - {icon: 'linkedin',   link: 'https://www.linkedin.com/in/yiyun-hu0812'}
-- {icon: 'instagram',   link: 'instagram.com/yunelrrr/'}
 # - {icon: 'envelope',   link: 'mailto:l.nguyen.paul@gmail.com'}
 - {icon: 'rss-square', link: '/feed.xml'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
