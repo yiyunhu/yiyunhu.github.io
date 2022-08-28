@@ -35,8 +35,8 @@ There’s one thing on my bucket list I really want to realize this year - freed
 
 <div style="text-align: center;">
 <img src="../assets/img/teton-1.jpg"
-    width="300"
-    height="200">
+    width="600"
+    height="400">
 </div>
 
 I will figure it out. Excited about the next talent show!
