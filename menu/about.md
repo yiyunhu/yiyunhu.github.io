@@ -4,6 +4,12 @@ title: Welcome to Earth!
 permalink: /about
 ---
 
+<div style="text-align: center;">
+<img src="../assets/img/yiyun1.jpg"
+    width="400"
+    height="300">
+</div>
+
 I’m an Economics major turned programmer. Trying to explore an elegant and comfortable solution to tackle the real-world problem and make it have its own value, the whole process is extremely cool to me. I am currently a graduate student at [Carnegie Mellon University](https://www.cmu.edu/). Prior to CMU, I received my Bachelor's degree from [Sun Yat-sen University](https://www.sysu.edu.cn/), and spent 1 year studied in Kuala Lumpur at [University of Malaya](https://www.um.edu.my/).
 
 
