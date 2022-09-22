@@ -7,7 +7,7 @@ tags: [profile]
 image: beethoven-250th.jpg
 ---
 
-### Symphony No.3 in E flat, Op.55 "Eroica"
+### [Symphony No.3 in E flat, Op.55 "Eroica"](https://www.youtube.com/watch?v=_RtmV8-2ZGU)
 The three best Beethoven symphonies in my mind – No.3, 7, and 9, are indistinguishable. 
 
 Started with his Symphony 3, that was 2009 when I first got into the orchestra, which I could hardly recognized the alto clef since I just switched from violin to the viola at that moment. 
@@ -24,7 +24,7 @@ Besides! I have to mention his Egmont Overture is my favorite piece asides from 
 
 
 - - - - - - - - - - - - - - - - - - - 
-### Symphony No.7 in A major, Op.92
+### [Symphony No.7 in A major, Op.92](https://www.youtube.com/watch?v=mVFap5ukOvY)
 I listened his seventh a lot recently, especially the second movement. It is a relatively slow one but it’s the most perfect interpretation of perseverance in my heart. Beethoven used his amazing notes to describe how to walk against the wind, never giving up in a desperate situation, and there is a lot of loneliness, but filling and growing up with encouragement and confidence. 
 
 It sounds a little bit shallow since this scene occurs a lot in our childhood writing classes :/ - A cliché way of describing how we deal with difficulties and challenges. But we cannot underestimate the power of music from Beethoven. 
@@ -37,7 +37,7 @@ As someone who championed freedom and liberty, Beethoven would must have been pr
 
 
 - - - - - - - - - - - - - - - - - - - 
-### Symphony No.9 in D minor, Op.125
+### [Symphony No.9 in D minor, Op.125](https://www.youtube.com/watch?v=rOjHhS5MtvA)
 The finale has the highest energy of all. It’s going from suffering, Beethoven’s pure suffering to transcending, which is why the end is so glorious. It was his finding his meaning of life, from wanting to kill himself, because he was suicidal - he was deaf and he’s a musician. After experiencing almost all the joys and sorrows in the world, he finally had this dialogue with God, and all the way to that victory. 
 
 From another perspective to see his music, Beethoven seems to be in the same space as our spiritual high-dimensional realm, discusses philosophical questions about peace and freedom. After so much unfortunateness, he still wanted to send the best blessings to the world and praised those human virtues at the end of his life. 
