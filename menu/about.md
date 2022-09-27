@@ -16,7 +16,7 @@ I’m an Economics major turned programmer. Trying to explore an elegant and com
 I was born and raised in Shanghai. I was 4 years old when I started on the violin, and became a viola player in [Shanghai City Symphony Orchestra](https://en.wikipedia.org/wiki/Shanghai_City_Symphony_Orchestra) and [Shanghai Youth Philharmonic Orchestra](https://misa.shsymphony.com/artist/detail/68/en) since 10. To this day, I believe music and its collaborative nature opened up certain channels in my brain, allowing me to understand concepts, both inside and outside of the classroom. It makes me who I am, and continues to shape who I will be. 
 
 
-My favorite violinist is Hilary Hahn, and favorite composers are Tchaikovsky, Mahler and Bruch. I just can’t pick only one ;)
+My favorite violinist is Hilary Hahn, and favorite composers are Tchaikovsky, Mahler and Bruch. I just can’t pick only one.
 
 
 Nature and broccoli always make me happy. I also enjoy CrossFit and can’t live without cold brew :-)
