@@ -9,29 +9,29 @@ image: teton.jpg
 
 We did one random question in everyday standup meeting. Last week there was a question “What’d you do if you are on a talent show?”. 
 
-When it was my round, I said I’m good at packing, there’s always something pops up at the very last minute that I can stuff it into my luggage that’s already full. 
+When it was my turn, I joked that my talent would be packing. There’s always something that pops up at the very last minute, and I manage to cram it into my already full luggage. 
 
 My colleagues laughed.
 
 - - - - - - - - - - - - - - - - - - - 
 
-A week later, my yearly talent show begins - trying to pack clothes for all seasons into a carry-on. Traveling has so much fun, includes the step of packing. My first long travel was a 9-hour flight to Finland. I didn’t know what can be brought onto flight and what must be checked in. I was so nervous even asking for a cup of juice that time. 
+A week later, my yearly talent show begins - attempting to fit clothes for all seasons into a carry-on bag. I reflect on the fun of traveling, which includes the art of packing. My first long journey was a 9-hour flight to Finland. I was unsure of what could be brought onto the flight and what needed to be checked in. I felt anxious even asking for a cup of juice.
 
-Many years later, I find my own ways of packing. I can do solo trip, check bags, have random conversations with interesting strangers, and head to a new destination wearing my noise cancellation headphones with my spiritual music at background. I grow up.
+Many years have passed since then, and I've developed my own packing techniques. I can now do solo trips, check bags, engage in random conversations with interesting strangers, and journey to new destinations while listening to my favourite spiritual music through noise-canceling headphones. I've matured.
 
-I still keep some childish habits all the time, prefer sitting by the window and let the window shade open, staring outside hoping to spot something surprising and interesting. If there’s nothing, at least there are different shapes of shades created by trees and clouds.
-
-- - - - - - - - - - - - - - - - - - - 
-
-This year I am spending the longest summer I’ve ever had - almost 4 months. In the past 12 years, I spent every summer in the orchestra with some of the best people I've ever met - rehearsing, gaming, performing. This is the first one that I didn't do anything with them.
-
-One year ago, I landed in Pittsburgh, started my new life in the US. The summer here is much hotter than I expected though it’s not that hot as Shanghai, but when the lights are shining, with all kinds of brake lights at the background, it would somehow remind me of Shanghai, such a weird feeling since they are so different.
-
-The daytime is extremely long during summer as well, makes the time unrealistic and easily form into a bad night schedule. Sometimes I will just sit by the window, or stand still on street, watching the amazing 9pm sunset. Then another day passed, my productive night life begins.
+Yet, I still hold onto some childhood habits. I always prefer sitting by the window with the shade open, hoping to spot something surprising or interesting. Even if there's nothing to see, I find solace in the various shapes created by trees and clouds.
 
 - - - - - - - - - - - - - - - - - - - 
 
-There’s one thing on my bucket list I really want to realize this year - freediving. I am craving to swim with all kinds of fish, watching them enjoy their life with all the freedom. That’d be so beautiful. Though in my deep mind I don’t know, I’m not good at swimming and somehow afraid of water in my deep heart. But I guess we should at least try to be good friends with our grand ocean, just like the mindset I used when I first surfed and kept falling down. “He just want to hug me!“ Then falling becomes interesting.
+This year marks the longest summer I’ve ever experienced - almost 4 months. For the past 12 years, I've spent every summer with the orchestra, rehearsing, gaming, and performing with some of the best people I've ever met. This year, however, is different.
+
+A year ago, I arrived in Pittsburgh, starting a new chapter in my life in the US. The summer here is much hotter than I anticipated, although not as scorching as Shanghai. Yet, the city lights, accompanied by the array of brake lights, occasionally evoke memories of Shanghai, creating a peculiar feeling of nostalgia despite the vast differences.
+
+The long summer days make time feel surreal, often leading to erratic sleeping patterns. Sometimes, I find myself gazing out the window or standing still on the street, captivated by the breathtaking sunset at 9 pm. Another day passes, and my productive nightlife begins.
+
+- - - - - - - - - - - - - - - - - - - 
+
+There's one item on my bucket list that I'm determined to achieve this year — freediving. I want to swim alongside various fish, observing them revel in their freedom. It sounds incredibly beautiful. However, deep down, I know I'm not the best swimmer, and I have a certain fear of the water. Nonetheless, I believe it's important to forge a bond with the ocean, much like the mindset I adopted when I first learned to surf—embracing the falls as part of the journey - “He just want to hug me!“ Then falling becomes interesting.
 
 <div style="text-align: center;">
 <img src="../assets/img/teton-1.jpg"
