@@ -12,7 +12,7 @@ I am still in disbelief that you left us so suddenly. This year marks the 16th y
 In my heart, you embody the essence of the viola—resilient yet graceful, a perfect blend of elegance and strength, you seamlessly combined poetic beauty with grandeur.
 
 <div style="text-align: center;">
-<img src="../assets/img/teton-1.jpg"
+<img src="../assets/img/sydney-2.jpg"
     width="600"
     height="400">
 </div>
@@ -49,6 +49,6 @@ I love you, and I will miss you dearly.
 
 <div style="text-align: center;">
 <img src="../assets/img/li.jpg"
-    width="400"
-    height="600">
+    width="200"
+    height="300">
 </div>
