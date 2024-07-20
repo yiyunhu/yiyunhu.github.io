@@ -47,7 +47,7 @@ You were loved by so many people, and your legacy will continue to live on throu
 
 I love you, and I will miss you dearly.
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 <img src="../assets/img/li.jpg"
     width="200"
     height="300">
