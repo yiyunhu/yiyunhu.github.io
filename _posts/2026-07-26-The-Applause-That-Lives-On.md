@@ -7,7 +7,7 @@ tags: [heap]
 image: sydney-4.jpg
 ---
 
-While watching a Chinese drama called "Zhu Jue" today, a scene suddenly reminded me of my viola teacher, Ms. Li.
+While watching a Chinese drama called "Zhu Jue (主角)" today, a scene suddenly reminded me of my viola teacher, Ms. Li.
 
 In Episode 19, the main character, a young girl from a poor family, finally gets the chance to perform on stage. At first, she never wanted to learn opera. But after her family went through many hardships, she decided to dedicate herself to it. She worked extremely hard and went through many difficulties before finally standing on that stage.
 
