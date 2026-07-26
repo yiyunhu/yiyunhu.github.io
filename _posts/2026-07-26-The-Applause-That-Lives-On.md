@@ -4,7 +4,7 @@ title: "The Applause That Lives On"
 author: "Yiyun Hu"
 categories: journal
 tags: [heap]
-image: sydney-3.jpg
+image: sydney-4.jpg
 ---
 
 While watching a Chinese drama called "Zhu Jue" today, a scene suddenly reminded me of my viola teacher, Ms. Li.
